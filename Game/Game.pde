@@ -1,6 +1,6 @@
 /* Game Class Starter File
- * Authors: Joel A. Bianchi
- * Last Edit: 5/22/2024
+ * Authors: Christian Arriola
+ * Last Edit: 5/29/2024
  */
 
 //import processing.sound.*;
